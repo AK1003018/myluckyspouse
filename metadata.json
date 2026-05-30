@@ -1,0 +1,6 @@
+{
+  "name": "Marathi Matrimony",
+  "description": "A beautiful matrimony landing page showcasing features with elegant animations and warm colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
